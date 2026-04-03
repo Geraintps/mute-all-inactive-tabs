@@ -1,3 +1,4 @@
 *.zip
 *.xpi
 .codex
+web-ext-artifacts/
